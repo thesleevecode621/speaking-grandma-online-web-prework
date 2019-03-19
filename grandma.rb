@@ -5,6 +5,6 @@ def speak_to_grandma(phrase)
     return "HUH?! SPEAK UP, SONNY!"
     elsif (phrase = "Hi")
     return"HUH?! SPEAK UP, SONNY!"
-    elsif  
+    elsif  (phrase = "Hi")
     
     
